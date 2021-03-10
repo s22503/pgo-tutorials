@@ -1,0 +1,20 @@
+Klasy:
+
+Person
+Address
+Student
+Professor
+
+Atrybuty i typy danych:
+
+Name: string
+Surname: string
+Age: int
+Street: string
+City: string
+State: string
+Postal Code: string
+Country: string
+Student Number: string
+Average Mark: double
+Salary: string
